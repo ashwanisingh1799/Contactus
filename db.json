@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "Name": "Ashwani Singh",
+      "Email": "bunnu.anubha2@gmail.com",
+      "Company": "akqa",
+      "City": "Greater Noida",
+      "Pincode": "201306",
+      "Message": "",
+      "EnquiryType": "Products",
+      "Product": ",Adhesive,Beverage Cans,Pulp and Paper,Adhesive,Beverage Cans,Pulp and Paper,Adhesive,Beverage Cans,Pulp and Paper",
+      "id": 1
+    },
+    {
+      "Name": "Ashwani Singh",
+      "Email": "bunnu.anubha2@gmail.com",
+      "Company": "Akqa",
+      "City": "Greater Noida",
+      "Pincode": "201306",
+      "Message": "",
+      "EnquiryType": "Products",
+      "Product": ",Adhesive,Beverage Cans",
+      "id": 2
+    },
+    {
+      "Name": "Ashwani Singh",
+      "Email": "bunnu.anubha2@gmail.com",
+      "Company": "akqa",
+      "City": "Greater Noida",
+      "Pincode": "201306",
+      "Product": ",Beverage Cans,Cardboard Boxes,E-Commerce",
+      "EnquiryType": "Services",
+      "Message": "hey",
+      "id": 3
+    }
+  ]
+}
